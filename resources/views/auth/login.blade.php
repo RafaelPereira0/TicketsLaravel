@@ -30,6 +30,6 @@
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
-        <label for="">admin@admin.com  12345678</label>
+        <label for="">admin@teste.com  12345678</label>
     </form>
 </x-guest-layout>
