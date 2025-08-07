@@ -24,7 +24,7 @@ Sistema web desenvolvido em Laravel com autenticação Breeze, para gerenciament
 ### Passo 1 - Clone o repositório
 
 - git clone https://github.com/RafaelPereira0/TicketsLaravel.git
-- cd seurepositorio
+- cd TiketsLaravel
 - composer install
 - npm install
 - cp .env.example .env
