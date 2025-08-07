@@ -23,16 +23,16 @@ Sistema web desenvolvido em Laravel com autenticação Breeze, para gerenciament
 
 ### Passo 1 - Clone o repositório
 
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
-touch database/database.sqlite
-php artisan migrate --seed
-npm run build
-php artisan serve
+- git clone https://github.com/RafaelPereira0/TicketsLaravel.git
+- cd seurepositorio
+- composer install
+- npm install
+- cp .env.example .env
+- php artisan key:generate
+- touch database/database.sqlite
+- php artisan migrate --seed
+- npm run build
+- php artisan serve
 
 
 ## Próximos passos
